@@ -1,0 +1,24 @@
+{
+  "urls": [
+    {
+      "name": "我的自定义线路（上传后替换此地址）",
+      "url": "https://raw.githubusercontent.com/你的用户名/仓库名/main/my-tvbox-config.json"
+    },
+    {
+      "name": "小盒子多仓",
+      "url": "http://xhztv.top/dc"
+    },
+    {
+      "name": "拾光多仓",
+      "url": "http://xmbjm.fh4u.org/dc.txt"
+    },
+    {
+      "name": "挺好分享多仓",
+      "url": "http://ztha.top/TVBox/GYCK.json"
+    },
+    {
+      "name": "noimank多仓",
+      "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json"
+    }
+  ]
+}
